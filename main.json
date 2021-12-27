@@ -560,6 +560,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"TileSet01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY c3chill #abchillgleis \n Leading Tileset Design Artist Jot & Tilmann \n Mental support by gregoa & Jan \n Support Tiles by Christoph & Jan \n Support Tiles & Mapping by erHeller  happy hippie sun by Ljuba Podgorny"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -592,6 +598,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3 Public Repo"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
@@ -605,6 +617,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"coco-decoration",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3 Public Repo"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,

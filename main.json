@@ -74,6 +74,12 @@
          "id":44,
          "name":"toNerdhof",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/nerdhof\/main.json#verstehbahnhof"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":35,
@@ -86,6 +92,12 @@
          "id":45,
          "name":"toLobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/main.json#vbhf"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":35,
@@ -499,6 +511,16 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Verstehbahnhof 2021 CC-BY"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Verstehbahnhof Hacker- und Makerspace in F\u00fcrstenberg\/Havel"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Verstehbahnhof"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
